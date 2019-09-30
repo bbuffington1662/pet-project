@@ -1,0 +1,5 @@
+url=jdbc:mysql://18.222.136.180:3306/MyDBBuffington0923
+user=bbuffington
+password=password
+server=18.222.136.180:3306
+db=MyDBBuffington0923
